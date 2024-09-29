@@ -20,7 +20,7 @@ This is a simple web application built with [Gradio](https://gradio.app/) that a
 2. [Setup](#setup)
 3. [Running the App](#running-the-app)
 4. [Deploying on Hugging Face Spaces](#deploying-on-hugging-face-spaces)
-5. [Example Usage](#example-usage)
+
 
 ---
 

@@ -1,1 +1,4 @@
-https://huggingface.co/spaces/Hecklar/OCRHindhiEnglish
+gradio
+easyocr
+opencv-python-headless
+torch

@@ -43,7 +43,7 @@ Clone this repository to your local machine using:
 
 ```bash
 git clone https://huggingface.co/spaces/Hecklar/OCRHindhiEnglish
-cd 
+cd Optical-Character-Recognition
 ```
 ## Install Dependencies 
 ```bash

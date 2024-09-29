@@ -42,8 +42,8 @@ This is a simple web application built with [Gradio](https://gradio.app/) that a
 Clone this repository to your local machine using:
 
 ```bash
-git clone https://github.com/your-username/your-repository-name.git
-cd your-repository-name
+git clone https://huggingface.co/spaces/Hecklar/OCRHindhiEnglish
+cd 
 ```
 ## Install Dependencies 
 ```bash
